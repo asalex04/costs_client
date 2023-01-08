@@ -1,0 +1,30 @@
+
+.header {
+  text-align: center;
+  margin: 15px auto;
+}
+
+.form {
+  width: 100%;
+  align-items: flex-end;
+}
+
+.item {
+  margin-right: 10px;
+}
+
+.btn {
+  position: relative;
+  min-width: 96px;
+  max-height: 38px;
+  margin-right: 30px;
+}
+
+.price {
+  //margin-left: 30px;
+}
+
+.price span {
+  margin-left: 10px;
+  margin-right: 5px;
+}

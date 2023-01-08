@@ -1,0 +1,40 @@
+.costItem {
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 5px;
+  margin: 0 30px;
+  padding: 10px;
+}
+
+.list-group-item {
+
+}
+
+.costItemLeft {
+  display: flex;
+  align-items: center;
+    input {
+      margin-right: 10px;
+    }
+}
+
+.costItemRight {
+  display: flex;
+  align-items: center;
+}
+
+.btnSave {
+  margin: 0 10px;
+}
+
+.btnDelete {
+  margin-left: 10px;
+  position: relative;
+  width: 40px;
+  height: 38px;
+}
+
+.btnBlock {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+}

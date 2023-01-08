@@ -1,0 +1,17 @@
+@media (max-width: 630px) {
+  .container {
+    position: relative;
+    padding-bottom: 50px;
+      button {
+        position: absolute;
+        bottom: 10px;
+        left: 30%;
+      }
+  }
+  .btnTheme {
+    transform: translateX(-80%);
+  }
+  .btnEnter {
+    transform: translateX(40%);
+  }
+}

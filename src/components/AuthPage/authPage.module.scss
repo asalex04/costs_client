@@ -1,0 +1,25 @@
+.wrapper {
+  width: 600px;
+  margin: 100px auto;
+  padding: 20px;
+  color: white;
+  background-color: #98948f;
+}
+
+.btn {
+  margin-left: 15px;
+  background: none;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.auth-btn {
+  position: relative;
+  min-width: 70px;
+  max-height: 40px;
+}
+
+span {
+  margin-right: 15px;
+}
